@@ -1,3 +1,3 @@
 # autocomplete-search-suggestions
 ---
-### click [here 🐧](autocomplete-search-suggestions-project)
+### click [here 🐧](https://azizmaghsuomi.github.io/autocomplete-search-suggestions-project/)
